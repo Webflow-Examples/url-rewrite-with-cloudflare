@@ -35,6 +35,8 @@ This is useful for SEO and a consistent user experience — users see clean, org
 
 Visit the live URL [www.hifzly.app](https://www.hifzly.app/), use buttons to navigate, and observe URL pattern.
 
+Access the Designer through [the read-only link](https://preview.webflow.com/preview/cloudflare-workers-url-rewriting?utm_medium=preview_link&utm_source=designer&utm_content=cloudflare-workers-url-rewriting&preview=80fb2a878fc7f749ab7e5d567c4f4c06&workflow=preview).
+
 ---
 
 ## Prerequisites
